@@ -1,12 +1,17 @@
-## Hi there 👋
+# todolist-micro-services
 
-<!--
+project made on [gitlab](https://gitlab.com/todolist-micro-services)
 
-**Here are some ideas to get you started:**
+Todo list using micro service architecture.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Backend: Java, Node Js, MySQL, Docker
+
+Frontend: React, Typescript, Docker
+
+## Use
+
+You can clone all reposirtory in the same directory, go to todolist-docker-compose/ and run 
+
+```bash
+docker-compose up
+```
