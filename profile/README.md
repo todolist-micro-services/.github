@@ -1,6 +1,6 @@
 # todolist-micro-services
 
-project made on [gitlab](https://gitlab.com/todolist-micro-services)
+project made on [gitlab](https://gitlab.com/todolist-micro-services) (some update can possibly be only on gitlab)
 
 Todo list using micro service architecture.
 
@@ -10,8 +10,4 @@ Frontend: React, Typescript, Docker
 
 ## Use
 
-You can clone all reposirtory in the same directory, go to todolist-docker-compose/ and run 
-
-```bash
-docker-compose up
-```
+See scripts or docker-compose to run the project
