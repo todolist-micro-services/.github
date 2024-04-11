@@ -10,4 +10,6 @@ Frontend: React, Typescript, Docker
 
 ## Use
 
-See scripts or docker-compose to run the project
+See [scripts](https://github.com/todolist-micro-services/scripts) or [docker-compose](https://github.com/todolist-micro-services/todolist-docker-compose) to run the project
+
+You can find a default ```.env``` in [docker-compose repository](https://github.com/todolist-micro-services/todolist-docker-compose)
